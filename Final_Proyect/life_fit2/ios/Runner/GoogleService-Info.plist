@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>788095270971-osui31qfs6uqjajs941v1a0hjh5cnfot.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.788095270971-osui31qfs6uqjajs941v1a0hjh5cnfot</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>788095270971-v9c96b5psaji759ujhro3f7q8517ftd0.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA0cFaMMgSvoMttVw5LEEZR-4AghRLoGgg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>788095270971</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.lifefit2</string>
+	<key>PROJECT_ID</key>
+	<string>life-fit1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>life-fit1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:788095270971:ios:37fb68d68c9473cf3c5c1e</string>
+</dict>
+</plist>
